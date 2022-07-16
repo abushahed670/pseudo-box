@@ -1,0 +1,35 @@
+.swimming div {
+    border: 10px solid rebeccapurple;
+    width: 250px;
+}
+
+.swimming {
+    position: relative;
+}
+
+#ring {
+    position: relative;
+    z-index: 1;
+
+}
+
+#water {
+    position: fixed;
+    top: 75px;
+    left: 0%;
+
+}
+
+#boy {
+    position: sticky;
+    top: 150px;
+    left: 0%;
+    z-index: 20;
+
+}
+
+.dummy {
+    height: 200px;
+    width: 250px;
+    background-color: pink;
+}

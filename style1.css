@@ -1,0 +1,29 @@
+h1 {
+    background-color: blue;
+}
+
+h2 {
+    background-color: crimson;
+}
+
+p {
+    background-color: aquamarine;
+}
+
+span {
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    margin-top: 50px;
+
+}
+
+
+
+div {
+    background-color: cadetblue;
+    width: 300px;
+    height: 250px;
+    padding-top: 35px;
+    margin-top: 50px;
+}
